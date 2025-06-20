@@ -52,7 +52,7 @@ Start streamlit app `streamlit run streamlit_app.py` or `streamlit run streamlit
 Start ticket dashboard `streamlit run streamlit_ticket_dashboard.py`
 
 
-### Set up local Table Plus DB
+### Set up local Table Plus DB (OPTIONAL)
 
 Download Table Plus for Mac or other platforms [here](https://tableplus.com/)
 
