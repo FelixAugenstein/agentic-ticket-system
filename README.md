@@ -47,7 +47,7 @@ Activate the virtual environment `source .venv/bin/activate`
 
 Install from requirements.txt `uv pip install -r requirements.txt`
 
-Start streamlit app `streamlit run streamlit_app.py` or `streamlit run streamlit_app_llm_only.py`
+Start streamlit app `streamlit run streamlit_app.py`
 
 Start ticket dashboard `streamlit run streamlit_ticket_dashboard.py`
 
